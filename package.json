@@ -1,0 +1,22 @@
+{
+  "name": "adventure",
+  "version": "1.0.0",
+  "description": "An adventure in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devgr/adventure.git"
+  },
+  "author": "George Darling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devgr/adventure/issues"
+  },
+  "homepage": "https://github.com/devgr/adventure#readme",
+  "dependencies": {
+    "vue": "^2.2.4"
+  }
+}
